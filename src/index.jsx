@@ -13,5 +13,5 @@ ReactDOM.render(
     <HashRouter>
         <App />
     </HashRouter>,
-    document.getElementById('dealer-root')
+    document.getElementById('root')
 );
